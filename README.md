@@ -31,7 +31,7 @@ Additional goodies:
 ## 🚀 Build & Run
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/SaiAkhilS007/expense-tracker.git
 cd expense-tracker
 dotnet build      # compiles the project
 dotnet run        # launches the CLI
